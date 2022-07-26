@@ -4,3 +4,6 @@ main: me.cuphead.ruseofanooze.RuseOfAnOoze
 api-version: 1.18
 authors: [ tigranharuty655 ]
 description: A remake of a 3 phase boss 
+commands:
+  cuphead:
+    description: Cuphead command
